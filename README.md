@@ -19,4 +19,5 @@
 >```
 >**3. Execute o arquivo principal:**
 >```
->python main.py```
+>python main.py
+>```
