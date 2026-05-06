@@ -30,5 +30,5 @@
 
 ### Observações: 
 
-Este projeto teve uma primeira versão desenvolvida em 2023, na disciplica de Algoritmos e Estruturas de Dados I
+Este projeto teve uma primeira versão desenvolvida em 2023, na disciplica de Algoritmos e Estruturas de Dados I<br>
 Em 2026, está reestruturado e reescrito com o objetivo de melhorar a organização do código, aplicar melhores práticas, expandir funcionalidades.
