@@ -1,11 +1,17 @@
 
-## 📌 Sistema de Exames - Projeto ainda em Desenvolvimento.
->**Este é um sistema simples desenvolvido em Python para gerenciar exames médicos. O projeto utiliza a biblioteca Graphics para a interface gráfica.**
+## 🧪 Sistema de Exames 
+- Projeto ainda em Desenvolvimento.
+>**Este é um sistema simples desenvolvido em Python para gerenciar exames médicos, com foco em exames de sangue. O projeto utiliza a biblioteca Graphics para a interface gráfica.**
 
-### **Funcionalidades:** 
+### 📌 **Funcionalidades:** 
 >- **Cadastrar e editar Exames de Sangue;**
 >- **Consultar Exames por ID;**
 >- **Gerar relatórios HTML com todos exames de um paciente;**
+
+### 🛠️ **Tecnologias**
+Python
+Graphics (interface gráfica)
+HTML (relatórios)
 
 ### **Como executar o Projeto:**
 
@@ -21,3 +27,8 @@
 >```
 >python main.py
 >```
+
+### Observações: 
+
+Este projeto teve uma primeira versão desenvolvida em 2023, na disciplica de Algoritmos e Estruturas de Dados I
+Em 2026, está reestruturado e reescrito com o objetivo de melhorar a organização do código, aplicar melhores práticas, expandir funcionalidades.
