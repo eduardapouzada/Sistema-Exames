@@ -9,9 +9,9 @@
 >- **Gerar relatórios HTML com todos exames de um paciente;**
 
 ### 🛠️ **Tecnologias**
-Python
-Graphics (interface gráfica)
-HTML (relatórios)
+>- **Python**
+>- **Graphics (interface gráfica)**
+>- **HTML (relatórios)**
 
 ### **Como executar o Projeto:**
 
