@@ -1,5 +1,5 @@
 
-## 📌 Sistema de Exames - Projeto em Desenvolvimento.
+## 📌 Sistema de Exames - Projeto ainda em Desenvolvimento.
 >**Este é um sistema simples desenvolvido em Python para gerenciar exames médicos. O projeto utiliza a biblioteca Graphics para a interface gráfica.**
 
 ### **Funcionalidades:** 
